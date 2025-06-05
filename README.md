@@ -14,6 +14,7 @@
 ![image](https://github.com/user-attachments/assets/47de4044-2160-417e-87a4-0674ffc6d996)
 
 # 数据库表结构
+获取到密码之后，可以使用 [改进版SQLCipher](https://github.com/johnli1988/SQLCipherForWeixin) 数据库查看器，查看数据库内容
 ![image](https://github.com/user-attachments/assets/c2a17ad3-47a0-4c5e-bfad-a6a752f68011)
 
 
