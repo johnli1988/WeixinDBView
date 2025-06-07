@@ -1,4 +1,9 @@
 # WeixinDBView
+
+**<span style="color:red;">计划发布一个体验版本</span>**
+
+
+
 **telegram: @gxccc618**
 ## 解密微信数据库，查看微信好友，聊天记录等
 # 基本原理
