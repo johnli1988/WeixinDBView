@@ -1,6 +1,6 @@
 # WeixinDBView
 
-**<span style="color:red;">计划发布一个体验版本</span>**
+**<span style="color:red;">Mac 版本已经解密完成，所有数据库可以打开，聊天记录展示有待完善。如需体验版加飞机</span>**
 
 
 
